@@ -1,10 +1,6 @@
 import csv
 from openpyxl import Workbook
 
-# This code generates an Excel file with:
-# - Dealerships listed in alphabetical order.
-# - Excludes "Foundation," "Corwin," and "Colorado Comptech."
-
 # Open the CSV file
 with open("dealership_data.csv", "r") as csv_file:
     # Read the CSV file
@@ -88,6 +84,8 @@ for customer, devices in sorted_output_data.items():
         sheet.append([customer, device["device_id"], device["cpu"]])
 
 # Save the Excel file
-workbook.save("Windows10_audit.xlsx")
+workbook.save("Windows_audit.xlsx")
 
-
+# This code generates an Excel file with:
+# - Dealerships listed in alphabetical order.
+# - Excludes "Foundation," "Corwin," and "Colorado Comptech."
