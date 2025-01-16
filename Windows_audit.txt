@@ -1,0 +1,1566 @@
+Airstream of Colorado
+PC Name: AC02      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC07      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC05      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC13      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: AC04      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC09      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC12      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: AC08      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: AC10      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: AC11      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: AC03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AC06      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+Gebhardt
+PC Name: GBMW57      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: ISSSNEXT10      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW19      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: GBMW43      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: ISSSNEXT17      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW56      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW10      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: GBMW27      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW75      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: GBMW02      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW16      CPU: Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz
+PC Name: ISSSNEXT11      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW08      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW29      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: GBMW07      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: GBMW48      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: ISSSNEXT08      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW25      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: GLAPTOP06      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW65      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: GBMW46      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW50      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW83      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: GBMW47      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW81      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: GBMW21      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW86      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: ISSSNEXT01      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: ISSSNEXT04      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW28      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW17      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: ISSSNEXT02      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW55      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: ISSSNEXT16      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMWIT      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: GBMW24      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: GBMW09      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: isssnext07      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW49      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: ISSSNEXT09      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: ISSSTABLET1      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: ISSSNEXT12      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: ISSSNEXT03      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GBMW06      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: ISSSNEXT13      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: GLAPTOP10      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW61      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: ISSSNEXT06      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: ISSSNEXT15      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: GBMW82      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW05      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: GBMW20      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: GBMW58      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: JPG-Laptop      CPU: Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz
+PC Name: GBMW39      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: GBMW23      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: GBMW85      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW42      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW11      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: GBMW30      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: GBMW18      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: GBMW26      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Peak Kia
+PC Name: PK20      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PK59      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK32      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: PK40      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PK39      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: PKTV01      CPU: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz
+PC Name: PK63      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PKCustomer      CPU: Intel(R) Core(TM) i3-2120T CPU @ 2.60GHz
+PC Name: PK44      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: PK62      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PKIT      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PK29      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: PK09      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK36      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: PK18      CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+PC Name: PK22      CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+PC Name: PK33      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PK61      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PK52      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: PK17      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: PK42      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: PK35      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: PK12      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: PK21      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK51      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK15      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PK60      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK49      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: PK02      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK37      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK41      CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+PC Name: PK05      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: PK06      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK10      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: PK47      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PK50      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PK24      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: PK38      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: PK31      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: PK04      CPU: Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz
+PC Name: PK23      CPU: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
+PC Name: PK13      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: PK07      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PK54      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PK43      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: PK58      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PK57      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PK08      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: PK34      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: PK28      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: Pk26      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: PK46      CPU: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz
+PC Name: PK53      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: PK16      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PK25      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: PK11      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+
+Rickenbaugh Cadillac
+PC Name: RICKOFFICE-19      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: RVSERVICE-35      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: RVSERVICE-14      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: RCLAPTOP03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RVSERVICE-30      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RVSERVICE-34      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: RVPARTS-07      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: RVService-10      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: RVSERVICE-33      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCC-03      CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+PC Name: RCPARTS-12      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: RCSERVICE-28      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RCC-32      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RCC-16      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCLAPTOP-01      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: RCSERVICE-16      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RICKOFFICE-03      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: RCSERVICE-03      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: RICKTDS      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: RICKOFFICE-05      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: RICKOFFICE-07      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: RCC-01      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RCC-12      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RCPARTS-09      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: RCSALES-01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RVSERVICE-7      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: RCC-23      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RCLAPTOP04      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCC-30      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RCC-09      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCLAPTOP05      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCSALES-04      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCSERVICE-02      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCC-31      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RCPARTS-05      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: RCPARTS-11      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: RCSALES-08      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RCC-21      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCSERVICE-18      CPU: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+PC Name: RVSERVICE-22      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: RVSALES-12      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: RCSALES-06      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RICKREMOTE10      CPU: Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
+PC Name: RCSERVICE-19      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RCSERVICE-05      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: RUSALES-02      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: RCSERVICE-17      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RICKOFFICE-16      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: RCC-22      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RICKOFFICE-02      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: RVSALES-07      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: RCCTECH2      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: RCC-29      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RVPARTS-05      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: RCSERVICE-20      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RICKOFFICE-14      CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+PC Name: RCC-11      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCC-13      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: RVSALES-01      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RICKOFFICE-12      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: RCC-10      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: RCC-08      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCSALES-09      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RVSALES-11      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCC-24      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: RVLAPTOP      CPU: Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz
+PC Name: RVSERVICE-06      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: RICKIT      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RCLAPTOP07      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCLAPTOP09      CPU: 12th Gen Intel(R) Core(TM) i5-1235U
+PC Name: RCC-14      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: RVSALES-05      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RVSALES-03      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCSERVICE-01      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RICKOFFICE-04      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: RVSALES-02      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCSERVICE-06      CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+PC Name: RCSALES-02      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RVSALES-13      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RVSERVICE-04      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: RCPARTS-10      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: RCC-06      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RCLAPTOP08      CPU: 12th Gen Intel(R) Core(TM) i5-1235U
+PC Name: RCC-07      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: RCC-02      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+
+Peak Kia Springs
+PC Name: PS08      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS09      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: PS01      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS-VOICEMAIL      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: PS07      CPU: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+PC Name: PS31      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: PS19      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS23      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS15      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: PS10      CPU: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+PC Name: PS11      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: SERVICE2-PC      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: PS13      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: PS22      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS35      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: PS06      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: PS36      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: PS16      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS04      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PS14      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: PS05      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: PS18      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS25      CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+PC Name: PS17      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: PS33      CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+PC Name: PS34      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: PS02      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: PS03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+CADA
+PC Name: CADALAPTOP06      CPU: Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz
+PC Name: CADA-LT-1GN7-LWILL      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: CADALAPTOP07      CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+PC Name: CADA-1SG4-SPARE      CPU: Intel(R) Pentium(R) CPU  J2900  @ 2.41GHz
+PC Name: CADALAPTOP02      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CADA02      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: CADALAPTOP13      CPU: Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz
+PC Name: CADA09      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: CADALAPTOP04      CPU: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz
+PC Name: CADALAPTOP05      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: CADAMEDIA01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CADA-Quickbooks      CPU: Intel(R) Xeon(R) CPU E5-4620 0 @ 2.20GHz
+PC Name: CADALAPTOP10      CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+PC Name: CADA08      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: BUDWELLSCONF      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CADA03      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CADA04      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: CADA05      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CADA06      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+
+Windish
+PC Name: W16      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: W27      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: W22      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: WL11      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: W10      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: W01      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: W11      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: WF05      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WF06      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WL04      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: WF04      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: W14      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: WF11      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WF08      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WF07      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WL16      CPU: 12th Gen Intel(R) Core(TM) i7-12700T
+PC Name: WF16      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: W26      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: WLAPTOP4      CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+PC Name: W05      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: WF15      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: WF01      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WF14      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: WF10      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WLAPTOP3      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: WF13      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: WL01      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: WF17      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: W20      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: WL12      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: WF09      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: W17      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: WL05      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: W08      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: WLAPTOP9      CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+PC Name: W29      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: W03      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: WL13      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: W21      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: WL07      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: WIT      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: W02      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: W28      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+
+Foundation Castle Rock
+PC Name: MCD13      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: FCR-ReflectionDodge      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: MCGM02      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: MCF30      CPU: Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz
+PC Name: MCF21      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCGM55      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCF45      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCGM22      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MCF70      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: MCGM61      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCF55      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: MCF34      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCF67      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCGM04      CPU: 12th Gen Intel(R) Core(TM) i5-12500T
+PC Name: MCFIDSTB02      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: MCF08      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: FCGLAPTOP11      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FCF06      CPU: 13th Gen Intel(R) Core(TM) i5-13500T
+PC Name: MCFIDSTB01      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: FCF39      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCFLAPTOP8      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: MCFLAPTOP11      CPU: AMD Ryzen 5 5500U with Radeon Graphics
+PC Name: MCF28      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCD15      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MCF40      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MCF23      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MCF53      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FORDMUSICPC      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCF48      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: MCF09      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MCF65      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCF41      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FCF44      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCGLAPTOP5      CPU: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+PC Name: MCF43      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCF71      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: MCGM19      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCFLAPTOP2      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: MCF06      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCGM14      CPU: 12th Gen Intel(R) Core(TM) i5-12500T
+PC Name: MCD11      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MCD27      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: FCGM01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: MCD05      CPU: Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz
+PC Name: MCGM41      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: MCGM05      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCGM26      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: MCGM21      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: MCD08      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCF04      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MCD19      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCGLAPTOP6      CPU: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+PC Name: MCD01      CPU: Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz
+PC Name: MCF15      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCGM54      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCF31      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MCGM17      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MCF56      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCFIDSTB03      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: FCDLAPTOP01      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: MCDLAPTOP2      CPU: Intel(R) Core(TM) i7 CPU       Q 740  @ 1.73GHz
+PC Name: MCGM11      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF68      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCGM20      CPU: Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz
+PC Name: MCGM44      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCD20      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCGM15      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: FAC-LTCO1009      CPU: 13th Gen Intel(R) Core(TM) i5-1335U
+PC Name: MCF66      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: MCF54      CPU: Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz
+PC Name: MCGM45      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCF58      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCD18      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCFIDSTB04      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: MCF16      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCF32      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF05      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF26      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCD22      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCF36      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCGM48      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCF02      CPU: Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz
+PC Name: MCGM60      CPU: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz
+PC Name: MCGM35      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCD09      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCF49      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCFLAPTOP1      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: MCF11      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCD23      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF25      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCF03      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCF50      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCGM56      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCGM49      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MCGM43      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCGM38      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MCF37      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF52      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF13      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCF62      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FCF01      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: CRITPC      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: FCF63      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MCF69      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCGM29      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCD21      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCFLAPTOP07      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FCF09      CPU: 13th Gen Intel(R) Core(TM) i5-13500T
+PC Name: MCGM58      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MCD02      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCGM36      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MCF61      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCF14      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MCGM31      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCGM01      CPU: Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz
+PC Name: MCGLAPTOP3      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: DODGEMUSICPC      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCD04      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: MW135      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: FCR-ReflectionChevy      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: FCF10      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCGM13      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MCD24      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCGM51      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCGM03      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCGM33      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MCD30      CPU: Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz
+PC Name: FCR-RelectionFord      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: MCF38      CPU: Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz
+PC Name: MCD26      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MCF01      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: MCF29      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: FCD16      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MCD07      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MCDLAPTOP5      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+
+Aimbridge Management
+PC Name: AIMSRV01      CPU: 13th Gen Intel(R) Core(TM) i9-13900H
+PC Name: AEG02      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: AELAPTOP01      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+
+Grand Valley Auto
+PC Name: GV07      CPU: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+PC Name: GV14      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: GV17      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: GV22      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: AAL001      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: GV24      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: GV15      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: AUTOAVES06      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: AUTOAVES57      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: AUTOAVES24      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: AUTOAVES08      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: Sales-Finance      CPU: Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz
+PC Name: AUTOAVES56      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: Sales2      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: GV06      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: GV05      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: GV09      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: GV08      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: GV10      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: GV12      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: GV13      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: AUTOAVES11      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: AUTOAVES58      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: DESKTOP-6MPLP91      CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz
+
+Auto Aves
+
+O'Meara Ford
+PC Name: OMFTB04      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: OMF227      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: OMF228      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: OMF084      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF214      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF014      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMF036      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMF002      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMF037      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF209      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: OMF010      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: JIMMY-LAPTOP      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: OMF205      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF097      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: OMF061      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMF088      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF064      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF225      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: OMF024      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF226      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: OMF207      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF109      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF100      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: OMF211      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF042      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF032      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF081      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMF213      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF217      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF015      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMFLaptop2      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: OMF016      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF019      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMF021      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF073      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMF195      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF043      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF090      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF009      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMF007      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF112      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: OMF101      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: OMF105      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF004      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMFTB02      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF071      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF001      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: EdqarPC      CPU: Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz
+PC Name: OMF039      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF055      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: OMF034      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: OMF075      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMF060      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF053      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF006      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMF078      CPU: Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz
+PC Name: OMFTB01      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: OMF033      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMF116      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: OMF072      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF115      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: OMF080      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF200      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMF095      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF092      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF215      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF107      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF089      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF198      CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+PC Name: OMF108      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMF063      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF134      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMF035      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMFTB05      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF111      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF077      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMF051      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMFTV01      CPU: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz
+PC Name: OMFIDS03      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF049      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMG59      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMFTB08      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF018      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMF058      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMFIDS01      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF038      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF106      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FERNANDO-LAPTOP      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: OMF048      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF030      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF012      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF074      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF054      CPU: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+PC Name: OMF045      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF201      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF102      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMF069      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF166      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: OMF076      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMFTB03      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF026      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMF086      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMF029      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMF204      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF020      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMF161      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: OMF099      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF052      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMFTB07      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF047      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF133      CPU: Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz
+PC Name: OMFIT      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMF059      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF083      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: OMF065      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMFTB06      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: OMF031      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF096      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMF085      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF008      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMF094      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: OMF062      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: OMF203      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMF218      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMFMusic      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF066      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF110      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMF114      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF050      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMF091      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: OMF103      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: OMF177      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: JESSE-LAPTOP      CPU: Intel(R) Core(TM) i3-5020U CPU @ 2.20GHz
+
+Rickenbaugh Collision East
+PC Name: RCE01      CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+PC Name: RCE06      CPU: Intel(R) Core(TM) i5-3550 CPU @ 3.30GHz
+PC Name: RCE02      CPU: AMD A6 PRO-7400B R5, 6 Compute Cores 2C+4G
+PC Name: RCE04      CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+PC Name: JMServer      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: RCE05      CPU: Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+PC Name: RCE03      CPU: Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+PC Name: DESKTOP-CV5N0V1      CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+
+O'Meara VW
+PC Name: OMV051      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: OMV015      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: OMV012      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMV004      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMV003      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: OMV032      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: OMV036      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV018      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMV044      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: OMV039      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV053      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: VAS6150D-1      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: OMV006      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV028      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMV034      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMV016      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMV025      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMV046      CPU: Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
+PC Name: OMV009      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMV050      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: OMV023      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMV042      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMV010      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: OMVTV01      CPU: Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz
+PC Name: OMV035      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMV017      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMV041      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: OMVLAPTOP01      CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+PC Name: OMV054      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV029      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: OMV040      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV011      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMV026      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV014      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMV031      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMV002      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMV007      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV021      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: OMV022      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMV037      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMV024      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMV013      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMV030      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: VAS6160E-1      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: VAS6150E      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: VAS6150D      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: VAS6160E-2      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+
+Fisher Auto
+PC Name: FISHER-LAPTOP02      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA59      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA76      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA64      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: FISHER-LAPTOP01      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FISHER-LAPTOP08      CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+PC Name: FA61      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: FA16      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FISHER-LAPTOP12      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FISHER-LAPTOP25      CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+PC Name: FISHER-LAPTOP32      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA42      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: FA78      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA60      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA73      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA17      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FISHER-LAPTOP04      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA14      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: FA26      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: FA15      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: FA36      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FISHER-LAPTOP14      CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+PC Name: FA18      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FISHER-LAPTOP15      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA51      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FATV01      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FISHER-LAPTOP05      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: FA09      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: FA07      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA02      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FA40      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: FA-CCC      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA62      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA34      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: Fisher-HondaReynolds01      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: FA37      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FA35      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FA69      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: SCAN-IT      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: ACURA-SALES07      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA28      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA25      CPU: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+PC Name: FA38      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: FA33      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FA03      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FA31      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA10      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: FISHER-LAPTOP11      CPU: Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz
+PC Name: FA22      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FA11      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FA20      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: FA68      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FTB03      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: FA45      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FISHER-LAPTOP10      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FISHER-LAPTOP07      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: FA24      CPU: Intel(R) Core(TM) i7-6700T CPU @ 2.80GHz
+PC Name: FA71      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA65      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA67      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA72      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FA66      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FHV03      CPU: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+PC Name: FISHER-LAPTOP19      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FISHERSHOP1      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA29      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA49      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FA30      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FISHER-LAPTOP13      CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+PC Name: FA04      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: FA12      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: FA06      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FA48      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FA58      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FTB01      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: FA13      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FHV02      CPU: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+PC Name: Hondaserv      CPU: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+PC Name: CRAIG-NEWTHREE      CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+PC Name: ALLSTATE13      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: FA39      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: FHV01      CPU: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+PC Name: FISHER-LAPTOP03      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA74      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FTB02      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: FA21      CPU: Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz
+PC Name: FISHER-LAPTOP22      CPU: 12th Gen Intel(R) Core(TM) i5-1235U
+PC Name: FISHER-LAPTOP09      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: FA63      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: FISHER-LAPTOP21      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: FA70      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+O'Meara GMC
+PC Name: OMG21      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMG28      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: OMG23      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMGLAPTOP3      CPU: 12th Gen Intel(R) Core(TM) i5-1235U
+PC Name: OMG49      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: OMG02      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMG47      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMGLAPTOP1      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: OMG30      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMG46      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMGLAPTOP2      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMG38      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: OMG33      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: OMG19      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMG04      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: OMG06      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMG60      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMG15      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMGLAPTOP5      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMG13      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: OMG11      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: OMG54      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: OMG55      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: OMG22      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: OMG48      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMG43      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMG29      CPU: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
+PC Name: OMG17      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: OMG16      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMG07      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: OMG05      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: OMG24      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: OMGTDS      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMGMUSIC      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMG18      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: OMG45      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: OMG36      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: OMG25      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: OMG53      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+
+Corwin Honda Springs
+
+Rickenbaugh Collision Marion
+PC Name: RCM07      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RCMREMOTE      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCM01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCM02      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCM06      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCM03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RCM05      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: RCM08      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+Peak Honda
+PC Name: PH05      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: PH15      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PH12      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PHLAPTOP2      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: PH16      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: PH09      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PH06      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PH11      CPU: Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
+PC Name: PH13      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: PH10      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PH14      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: PH02      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PHLAPTOP      CPU: AMD A12-9720P RADEON R7, 12 COMPUTE CORES 4C+8G
+PC Name: PH08      CPU: Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+PC Name: PH03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+Foundation Hyundai
+PC Name: FH13      CPU: Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz
+PC Name: FH28      CPU: AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics
+PC Name: FH44      CPU: AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics
+PC Name: FH33      CPU: AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics
+
+Courtesy Acura
+PC Name: CALAPTOP01      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: CA17      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: CA37      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: CATB02      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: CATB04      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: CA25      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: CAIT      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: CA51      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: CA94      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: CATB01      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: CA31      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CA32      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CA16      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: CA60      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: CA22      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: CASAS      CPU: Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz
+PC Name: CA28      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: CA05      CPU: Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz
+PC Name: CA03      CPU: Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz
+PC Name: CA34      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: CA08      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: CA93      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CA78      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: CA23      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CA13      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: CA20      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: CA30      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: CA87      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: CA29      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: CA15      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: CA92      CPU: Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz
+PC Name: CA90      CPU: Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz
+PC Name: CA21      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: CA26      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: CA65      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: CA11      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: CA02      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: CA61      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: CA33      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: CA12      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CATB03      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: CA06      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: CA40      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: CA10      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: CA01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+Boulder Chrysler Dodge Ram
+PC Name: BCD20      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BCD12      CPU: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+PC Name: BCD11      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: BCD14      CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+PC Name: BCD15      CPU: Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz
+PC Name: BCDLAPTOP01      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: BCD24      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BCD05      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BCD13      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BCD07      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: BCD26      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BCD27      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BCD06      CPU: AMD A8-3800 APU with Radeon(tm) HD Graphics
+PC Name: BCD03      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BCD09      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: BCD16      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BCD02      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: DESKTOP-18F2B53      CPU: Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz
+PC Name: BCD25      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BCDLAPTOP02      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+BG Topaz
+PC Name: BGT02      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: BGT01      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: BGT03      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: BGT04      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: BGT05      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+
+Corwin Toyota Springs
+PC Name: CST-SHOP07      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES09      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES25      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: pc-0222-3376      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES23      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES08      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SHOP14      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3514      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES02      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-PARTS06      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SERV10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3413      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SERV14      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3397      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP13      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: CST-SALES43      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES63      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-BDC02      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-LITTSADVI03      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: pc-0222-3372      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES29      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES04      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3406      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PC-1221-3331      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: LITSHPTS04      CPU: Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz
+PC Name: CST-Sales50      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3381      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES67      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3375      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3478      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES24      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SALES58      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: PC-1221-3295      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CTS-SHOP11      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CST-SALES      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP05      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-ACCT06      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES27      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SERV12      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SALES31      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: pc-0222-3399      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-ACCT05      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-ACCT01      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-BDC01      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: pc-0222-3380      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3387      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES62      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES51      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3400      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP25      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: CST-SHOP18      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SHOP04      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES48      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3464      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-ACCT03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SERV01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES36      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: pc-0222-3656      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3392      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3477      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES54      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES34      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SHOP22      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTCS002      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: pc-0222-3643      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SERV19      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-BDC03      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SHOP12      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3373      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP19      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SERV03      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3558      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES52      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SERV06      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CTCS001      CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+PC Name: CST-SALES30      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SHOP03      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CST-SERV05      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: CST-SALES61      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3402      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES33      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: PC-1221-3298      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3405      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3391      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES06      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES49      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES60      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-ACCT09      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: CST-SERV17      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-PARTS03      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: pc-0222-3388      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-PARTS10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3583      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES68      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3367      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-ACCT07      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: CST-ACCT10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES12      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3404      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3386      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SALES14      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES32      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SERV09      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-PARTS04      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SALES41      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-PARTS09      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SHOP20      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3597      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SERV08      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: CST-PARTS08      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: PC-SALES56      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP21      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: PC-1221-3296      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3521      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP09      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SHOP15      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3390      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CST-SHOP10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SERV11      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SALES01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-SERV07      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CST-PARTS05      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CST-SHOP16      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CST-ACCT04      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3378      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+BG Auto
+PC Name: BGW04      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: BG18      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: BG47      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: BGA-BKQ0ZN3      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: BG24      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: BG52      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BG06      CPU: Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz
+PC Name: BG08      CPU: AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G
+PC Name: BG45      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BG19      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BG44      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BG48      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: BG30      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: BG39      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BG09      CPU: Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz
+PC Name: TEXA-BRYANGOSSEL      CPU: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+PC Name: BG41      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BG17      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: BG34      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: BG29      CPU: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
+PC Name: BG01      CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+PC Name: BG15      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: BG27      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: BG38      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: BG05      CPU: AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G
+PC Name: BG28      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BG43      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BGLVSERVER      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: BG35      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: BG46      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BG42      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BG40      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: BG03      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: BG26      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: BG11      CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+PC Name: BG13      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: BG21      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: BG02      CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+
+Interstate Ford
+PC Name: IFIDS9      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: IF59      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IFIDS10      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: IF52      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF11      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: IF14      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: IF31      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: IF30      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF66      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF13      CPU: Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz
+PC Name: IFIDS12      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IFSURF04      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: IFIDS04      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: IF54      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF33      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IFSURF01      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: IF37      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: IF49      CPU: Intel(R) Core(TM) i7-9700T CPU @ 2.00GHz
+PC Name: IF34      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF63      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF02      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF17      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF61      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF50      CPU: Intel(R) Core(TM) i7-9700T CPU @ 2.00GHz
+PC Name: IFIDS5      CPU: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+PC Name: IF15      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF03      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF48      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: IF09      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF19      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: IF56      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF28      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: IF67      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF22      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF51      CPU: Intel(R) Core(TM) i7-9700T CPU @ 2.00GHz
+PC Name: IF01      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF55      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF53      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF-SECURITY      CPU: Intel(R) Xeon(R) CPU E5-4620 0 @ 2.20GHz
+PC Name: IF25      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IFSURF02      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: IFIDS8      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: IFIDS01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IF71      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IF26      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IFSURF06      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: IFIT      CPU: Intel(R) Xeon(R) CPU E5-4620 0 @ 2.20GHz
+PC Name: IFSURF03      CPU: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+PC Name: IF70      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IFIDS3      CPU: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+PC Name: IF68      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IF16      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF12      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: IF39      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: IF62      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IFLAPTOP02      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IFLAPTOP01      CPU: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+PC Name: IF20      CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz
+PC Name: IF36      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IFIDS11      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: IFIDS2      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: IF07      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF46      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: IF29      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF18      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF57      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF08      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF23      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: IF21      CPU: Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz
+PC Name: IF32      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: IF06      CPU: Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz
+PC Name: IF69      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+
+Corwin Toyota Boulder
+PC Name: DESKTOP-STN2HRN      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES-12      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: CTB-SALES32      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-PARTS06      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-PARTS08      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES38      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES07      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES26      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3496      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-SHOP01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-PARTS05      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: LAPTOP-C8CUHRTF      CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+PC Name: CTB-SALES15      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3523      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-PARTS02      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SERV06      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES25      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3678      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-SALES27      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES-18      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3473      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-CONFERENCEROOM      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3468      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3507      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3540      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3467      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3438      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-SERV01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: DESKTOP-2IUFNNM      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-PARTS09      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SERV08      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SHOP10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SHOP03      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3524      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3377      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-SALES13      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: DESKTOP-EPQH8NK      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES05      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CTB-SERV12      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES30      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3680      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: DESKTOP-32I70D8      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-SHOP11      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: DESKTOP-ULLJILT      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SERV14      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES35      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-PARTS03      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: LAPTOP-E57LMI81      CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+PC Name: PC-1121-3270      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: DESKTOP-52EJ5HV      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3654      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CBT-SALES22      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3650      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-OFFICE01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: DESKTOP-B0MH69H      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-SALES05      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-SALES-11      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3604      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-PARTS01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-SALES21      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: pc-0222-3425      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-TRAININGROOM      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3490      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3430      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: CTB-SERV10      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: LAPTOP-BQF4VS2U      CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+PC Name: CTB-SALES01      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CBT-SHOP08      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3423      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3424      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: LAPTOP-A8NN543F      CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+PC Name: CTB-SERV04      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: DESKTOP-HMPAOC9      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES28      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES39      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: LAPTOP-FKP2Q97T      CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+PC Name: CTB-SERV13      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: pc-0222-3440      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: pc-0222-3439      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: DESKTOP-V4D7Q71      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: CTB-PARTS04      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SERV02      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+PC Name: CTB-SALES34      CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+
+Colorado Comptech
+PC Name: MEDIA-COMPUTER      CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+PC Name: Paula-PC      CPU: Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz
+PC Name: Cole-Work      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: DIAG-LAPTOP      CPU: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+PC Name: SI01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: ProBook450G2      CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz
+PC Name: COCTS03      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+
+Empire Nissan
+PC Name: ELN14      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN55      CPU: Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz
+PC Name: ELN27      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: EN09      CPU: Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz
+PC Name: ELN26      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: ELN53      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN49      CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+PC Name: EN16      CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name: ENCONSULT21      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: ELN30      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN29      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN13      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: EN14      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: ELN54      CPU: Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz
+PC Name: ENCONSULT15      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: ELN43      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN51      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN32      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN48      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN44      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN33      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN21      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ENCONSULT14      CPU: Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz
+PC Name: ELN12      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN34      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN38      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN18      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN31      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN37      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN15      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN45      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN50      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN41      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN09      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN42      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN08      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN19      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN20      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ENCONSULT22      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: ELN36      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN11      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN10      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN05      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN25      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN24      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN07      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ENCONSULT03      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: EN82      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: ENCONSULT11      CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+PC Name: ENIT      CPU: Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz
+PC Name: EN25      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: ELN16      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: EN24      CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+PC Name: ELN04      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN23      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN03      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: EN73      CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+PC Name: ELN02      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: ELN06      CPU: Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz
+PC Name: EN23      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+
+Foundation Hyundai Boulder
+PC Name: FHB09      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB08      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB18      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB15      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB16      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB14      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB29      CPU: Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+PC Name: FHB13      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB03      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB05      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB07      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHBLAPTOP03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FHB22      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB04      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: FHB21      CPU: Intel(R) Core(TM) i7-6700T CPU @ 2.80GHz
+
+Foundation Wheat Ridge
+PC Name: FAC-2002      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FW006      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW036      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MWCONFERENCEPC2      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MVDLAPTOP2      CPU: 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz
+PC Name: MW062      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW026      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW035      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW307      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW302      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW101      CPU: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+PC Name: MW057      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: FAC-2015      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: FWTECHLAPTOP01      CPU: 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz
+PC Name: FW07      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: MW077      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW104      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MVDLAPTOP15      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: MW124      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW085      CPU: Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+PC Name: MW050      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW334      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MWTECHLAPTOP2      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: MW339      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW330      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: ITPC2      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: MW029      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW096      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: FW055      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW322      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW103      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MW133      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MWTECHLAPTOP4      CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+PC Name: MW048      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW167      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW059      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MW074      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+PC Name: MW137      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW098      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MW028      CPU: Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz
+PC Name: MW315      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW022      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MW233      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW081      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MW018      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW015      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW053      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW166      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MW170      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW102      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MW016      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: MW013      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: MW108      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: MW204      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: FW116      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: MW040      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MW309      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW011      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW138      CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+PC Name: MCFLAPTOP09      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: MVDLaptop6      CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+PC Name: MW091      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW070      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: FAC-2031      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: FW01      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: MW097      CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+PC Name: MW110      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW114      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: MW020      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MW032      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW072      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW100      CPU: Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz
+PC Name: MW329      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW310      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW335      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: MW211      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW079      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW095      CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz
+PC Name: MW014      CPU: Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz
+PC Name: MW051      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW082      CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+PC Name: MWCONFERENCEPC      CPU: Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz
+PC Name: MW001      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: FW238      CPU: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz
+PC Name: MW006      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW314      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MVDLAPTOP13      CPU: 12th Gen Intel(R) Core(TM) i7-1265U
+PC Name: MW005      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW004      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW002      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW113      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: MW027      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW017      CPU: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+PC Name: MW321      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW037      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW327      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW003      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW123      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: MW064      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW042      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW039      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW031      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW046      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW320      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: MW054      CPU: Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
+PC Name: MW318      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW073      CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+PC Name: MW326      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW231      CPU: Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz
+PC Name: MW324      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW130      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: MW323      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: MW068      CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Rickenbaugh Infiniti
+PC Name: RI34      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: RILAPTOP02      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: RI16      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI11      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RI22      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RI12      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: RI18      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI14      CPU: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+PC Name: RI02      CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
+PC Name: RI30      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI32      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RI31      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RI28      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RI08      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: RI04      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: RI26      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RI29      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI27      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: RI05      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI25      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI20      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI01      CPU: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+PC Name: RI24      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: RI07      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+
+Brighton Ford
+PC Name: BFTB06      CPU: Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz
+PC Name: BF54      CPU: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
+PC Name: BF48      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF73      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF76      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF20      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF43      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF68      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: BF04      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF59      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BFTB04      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: BF66      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF82      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF11      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF03      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF10      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF36      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF41      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF81      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF21      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF05      CPU: 13th Gen Intel(R) Core(TM) i5-13500H
+PC Name: BF18      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF95      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF65      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BFIDS01      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF83      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF74      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: BF78      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BFTB09      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: BFIDS05      CPU: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+PC Name: BF77      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF16      CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PC Name: BF39      CPU: Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+PC Name: BF30      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF71      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF45      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: BFTB01      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: BF53      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF26      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF56      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BFTB03      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: BF32      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: BF67      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF12      CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+PC Name: BF70      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BFTB02      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+PC Name: BF47      CPU: Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz
+PC Name: BF23      CPU: Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz
+PC Name: BF09      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF42      CPU: Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz
+PC Name: BF27      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: BF06      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: BF79      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF87      CPU: 12th Gen Intel(R) Core(TM) i5-1240P
+PC Name: BFTB08      CPU: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+PC Name: BF46      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF28      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF07      CPU: Intel(R) Core(TM) i5-7260U CPU @ 2.20GHz
+PC Name: BF35      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF15      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BF85      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF51      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF31      CPU: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+PC Name: BF62      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF14      CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz
+PC Name: BFIDS04      CPU: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+PC Name: BFIT      CPU: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz
+PC Name: BF25      CPU: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+PC Name: BF01      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF58      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF44      CPU: Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz
+PC Name: BF49      CPU: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+PC Name: BF29      CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+PC Name: BF64      CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+PC Name: BF80      CPU: Intel(R) Core(TM) i5-6260U CPU @ 1.80GHz
+PC Name: BFTB05      CPU: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+
