@@ -1,4 +1,9 @@
 import csv
+from openpyxl import Workbook
+
+# This code generates an Excel file with:
+# - Dealerships listed in alphabetical order.
+# - Excludes "Foundation," "Corwin," and "Colorado Comptech."
 
 # Open the CSV file
 with open("dealership_data.csv", "r") as csv_file:
@@ -23,6 +28,10 @@ with open("dealership_data.csv", "r") as csv_file:
     for row in data_lines:
         customer, site, property, description, instances, devices = row
         devices = devices.split()  # Split device IDs into a list
+
+        # Skip dealerships that should be excluded
+        if customer in ["Foundation", "Corwin", "Colorado Comptech"]:
+            continue
         
         # Group data by customer
         if customer not in dealership_data:
@@ -61,13 +70,24 @@ with open("dealership_data.csv", "r") as csv_file:
                     "device_id": device_id,
                     "cpu": cpu_entry["description"],
                 })
-    
-    # Write the output to a text file
-    with open("Windows_audit.txt", "w") as new_file:
-        for customer, devices in output_data.items():
-            new_file.write(f"{customer}\n")
-            for device in devices:
-                new_file.write(f"PC Name: {device['device_id']}      CPU: {device['cpu']}\n")
-            new_file.write("\n")
 
-# This code reads the CSV file, processes the data to extract relevant information, and writes it to a text file.
+# Sort the output_data dictionary by dealership names (keys)
+sorted_output_data = dict(sorted(output_data.items()))
+
+# Write the output to an Excel file
+workbook = Workbook()
+sheet = workbook.active
+sheet.title = "Windows 10 Audit"
+
+# Write the headers
+sheet.append(["Dealership Name", "PC Name", "CPU"])
+
+# Write the sorted data
+for customer, devices in sorted_output_data.items():
+    for device in devices:
+        sheet.append([customer, device["device_id"], device["cpu"]])
+
+# Save the Excel file
+workbook.save("Windows10_audit.xlsx")
+
+
