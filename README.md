@@ -39,5 +39,5 @@ This program is particularly useful for:
 - N-able access to generate the asset report
 
 ## Contact
-For questions or support, feel free to reach out to the program maintainer.
+For questions or support, feel free to reach out.
 
